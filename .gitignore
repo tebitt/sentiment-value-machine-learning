@@ -1,0 +1,5 @@
+/dataset/
+.env
+.DS_Store
+cnn_lstm_model.h5
+model.py
